@@ -1,4 +1,4 @@
-# Astrophysics is Cool!
+# Astrophysics is Cool
 
 ## Simulate Planet Physics
 
